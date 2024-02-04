@@ -40,6 +40,22 @@
       "description": "ok",
       "category": "Vitamin",
       "image": "https://www.wheystore.vn/upload/product_optimize/image/upl_gioi_thieu_ve_ostrovit_omega_3_extreme_-_180_vien__1692085125_image_1692085125.png"
+    },
+    {
+      "id": "4",
+      "title": "CobraLab The Curse 50 servings",
+      "price": 4056,
+      "description": "The Curse là một trong những sản phẩm tăng sức mạnh thúc đẩy năng lượng tập luyện mạnh nhất từ trước tới nay. Sử dụng Curse đem lại năng lượng, khả năng tập trung, hương vị thơm ngon.",
+      "category": "Pre-Workout",
+      "image": "https://www.wheystore.vn/upload/product_optimize/image/upl_cobralab_the_curse_50_servings_1670402775_image_1670402775.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Ostrovit Vitamin D3 4000 + K2 110 viên",
+      "price": 185000,
+      "description": "Ostrovit Vitamin D3 4000 + K2là sản phẩm có tác dụng bổ sung khoáng chất và nhiều loại vitamin khác cho cơ thể. Giúp xương chắc khỏe hơn và sức đề kháng được cải thiện rõ rệt hơn.",
+      "category": "Vitamin",
+      "image": "https://www.wheystore.vn/upload/product_optimize/image/upl_ostrovit_vitamin_d3_4000___k2_110_vien_1688101012_image_1688101012.jpg"
     }
   ],
   "users": [
