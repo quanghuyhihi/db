@@ -81,6 +81,12 @@
       "password": "123123123",
       "role": "admin",
       "id": 1
+    },    {
+      "email": "quanghuy@gmail.com",
+      "username": "quanghuy",
+      "password": "123456",
+      "role": "member",
+      "id": 2
     }
   ]
 }
