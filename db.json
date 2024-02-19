@@ -42,14 +42,6 @@
       "image": "https://www.wheystore.vn/images/products/2024/01/26/large/ostrovit-omega-3-extreme-90-vien_1706241861.jpg"
     },
     {
-      "id": "4",
-      "title": "CobraLab The Curse 50 servings",
-      "price": 4056,
-      "description": "The Curse là một trong những sản phẩm tăng sức mạnh thúc đẩy năng lượng tập luyện mạnh nhất từ trước tới nay. Sử dụng Curse đem lại năng lượng, khả năng tập trung, hương vị thơm ngon.",
-      "category": "Pre-Workout",
-      "image": "https://www.wheystore.vn/images/products/2024/01/08/large/the-curse-50-servings_1704677815.jpg"
-    },
-    {
       "id": "5",
       "title": "Ostrovit Vitamin D3 4000 + K2 110 viên",
       "price": 185000,
@@ -72,6 +64,33 @@
       "description": "Đây là dòng Whey cao cấp, không chứa tạp chất và chứa nguồn Protein từ bò ăn cỏ đạt chuẩn chất lượng tại Anh.",
       "category": "Whey Protein",
       "image": "https://www.wheystore.vn/images/products/2023/12/08/large/iso-xp-1-8-kg_1702023598.jpg"
+    },
+    {
+      "id": "1e18",
+      "title": "Applied Nutrition PUMP 3G Pre-Workout With Caffeine 25 servings",
+      "price": 650000,
+      "description": "PUMP 3G Pre-Workout Original 25 Serving là bước nhảy vọt từ dòng ABE nổi tiếng của Applied Nutrition.",
+      "image": "https://www.wheystore.vn/images/products/2024/01/15/large/pump-3g-pre-workout-original-25-servings_1705294254.jpg",
+      "rate": 4.9,
+      "category": "Pre-Workout"
+    },
+    {
+      "id": "0262",
+      "title": "JNX Sports The Curse 50 servings",
+      "price": 580000,
+      "description": "Một trong những sản phẩm Pre Workout nổi tiếng nhất được nhiều người ưa chuộng đó chính là The Curse - sản phẩm tăng sức mạnh trước tập phù hợp với mọi đối tượng. Với bảng thành phần gồm 7 hoạt chất được điều chế theo công thức riêng biệt, hứa hẹn sẽ giúp bạn bùng nổ sức mạnh tối đa để chinh phục những bài tập khó nhằn nhất.",
+      "image": "https://www.wheystore.vn/images/products/2024/01/08/large/the-curse-50-servings_1704677815.jpg",
+      "rate": 4.5,
+      "category": "Pre-Workout"
+    },
+    {
+      "id": "e54a",
+      "title": "BiotechUSA Iso Whey Zero 5lbs",
+      "price": 1950000,
+      "description": "Đây là loại whey protein 100% isolate nổi tiếng đến từ nhà sản xuất BioTech USA với cam kết sẽ không làm những tín đồ gym phải thất vọng, cả về chất lượng lẫn mùi vị.",
+      "image": "https://www.wheystore.vn/images/products/2023/12/05/large/iso-whey-zero-5lbs_1701767513.jpg",
+      "rate": 0,
+      "category": "Whey Protein"
     }
   ],
   "users": [
@@ -80,13 +99,14 @@
       "username": "quanghuy",
       "password": "123123123",
       "role": "admin",
-      "id": 1
-    },    {
+      "id": "1"
+    },
+    {
       "email": "quanghuy@gmail.com",
       "username": "quanghuy",
       "password": "123456",
       "role": "member",
-      "id": 2
+      "id": "2"
     }
   ]
 }
